@@ -95,7 +95,6 @@ class HttpRequests {
     }
 }
 
-
 class Todo {
     private String title;
     private String body;
